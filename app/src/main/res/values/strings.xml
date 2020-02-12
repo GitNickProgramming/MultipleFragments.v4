@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultipleFragments.v4</string>
+    <string name="_1st_fragment">Settings</string>
+    <string name="_2nd_fragment">Display</string>
+    <string name="employed">Employed</string>
+    <string name="unemployed">Unemployed</string>
+</resources>
